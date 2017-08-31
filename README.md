@@ -3,7 +3,7 @@
 ## Links to read
 <ul>
 <li><a href = "https://people.eecs.berkeley.edu/~alspaugh/papers/lsa_idea_2013.pdf" >Topic Modelling</a> </li>
-<li><a href = "https://rpubs.com/fariz/NLP">NLP Exploratory Data Analytics</a></li>
+<li><a href = "https://rpubs.com/fariz/NLP">NLP Exploratory Data Analysis</a></li>
 </ul>
 
 ## Exploratory Questions for Course Design
