@@ -23,6 +23,9 @@
 -> Performance of a student
 - List of bad(marked) answers 
 
+-> Topics to be covered together
+- Multiple tags association
+
 ## Techniques to be explored
 - Latent Semantic Analysis (identify related questions)
 - Basket Analysis (tags association)
