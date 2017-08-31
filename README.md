@@ -9,6 +9,7 @@
 ## Exploratory Questions for Course Design
 -> Descriptive Topics (will require active teaching by the Professor):
 - Most enquired errors/topics/questions
+
 -> Interactive Topics (more inclined towards interactive class session):
 - Most comments on posts
 - Most voted questions/answers
