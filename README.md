@@ -6,11 +6,6 @@
 <li><a href = "https://rpubs.com/fariz/NLP">HMM's in NLP</a></li>
 </ul>
 
-### Tools for Learning R
-<ul>
-<li><a href = "http://r4ds.had.co.nz/">R for Data Science</a></li>
-<ul>
-
 ## Exploratory Questions for Course Design
 -> Descriptive Topics (will require active teaching by the Professor):
 - Most enquired errors/topics/questions
@@ -31,3 +26,10 @@
 - Latent Semantic Analysis (identify related questions)
 - Basket Analysis (tags association)
 - KNN (Tags/Questions clustering)
+
+### Tools for Learning R
+<ul>
+<li><a href = "http://r4ds.had.co.nz/">R for Data Science</a></li>
+<ul>
+
+
