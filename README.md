@@ -6,6 +6,11 @@
 <li><a href = "https://rpubs.com/fariz/NLP">NLP Exploratory Data Analysis</a></li>
 </ul>
 
+## Literature References
+<ul>
+<li><a href = "http://www.cs.umd.edu/~vietan/2013_l2h.pdf">Tree Based Label Dependency Topic Models</a></li>
+</ul>
+
 ## Exploratory Questions for Course Design
 -> Descriptive Topics (will require active teaching by the Professor):
 - Most enquired errors/topics/questions
