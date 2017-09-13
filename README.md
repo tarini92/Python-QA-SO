@@ -2,13 +2,8 @@
 
 ## Links to read
 <ul>
-<li><a href = "https://people.eecs.berkeley.edu/~alspaugh/papers/lsa_idea_2013.pdf" >Topic Modelling</a> </li>
+<li><a href = "https://eight2late.wordpress.com/2015/09/29/a-gentle-introduction-to-topic-modeling-using-r/" >Introduction to Topic Modelling using R</a> </li>
 <li><a href = "https://rpubs.com/fariz/NLP">NLP Exploratory Data Analysis</a></li>
-</ul>
-
-## Literature References
-<ul>
-<li><a href = "http://www.cs.umd.edu/~vietan/2013_l2h.pdf">Tree Based Label Dependency Topic Models</a></li>
 </ul>
 
 ## Exploratory Questions for Course Design
