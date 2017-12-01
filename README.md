@@ -4,6 +4,7 @@
 <ul>
 <li><a href = "https://eight2late.wordpress.com/2015/09/29/a-gentle-introduction-to-topic-modeling-using-r/" >Introduction to Topic Modelling using R</a> </li>
 <li><a href = "https://rpubs.com/fariz/NLP">NLP Exploratory Data Analysis</a></li>
+  <li><a href = "http://www.analyticsforfun.com/2016/09/analyzing-stack-overflow-questions-and.html">Stackoverflow Dataset Analysis</a></li>
 </ul>
 
 ## Exploratory Questions for Course Design
