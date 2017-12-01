@@ -1,10 +1,5 @@
 # Python-QA-SO
 
-### Dataset
-<ul>
-<li><a href = "https://www.kaggle.com/stackoverflow/pythonquestions/data"></a></li>
-<ul>
-
 ## Links to read
 <ul>
 <li><a href = "https://eight2late.wordpress.com/2015/09/29/a-gentle-introduction-to-topic-modeling-using-r/" >Introduction to Topic Modelling using R</a> </li>
@@ -33,9 +28,15 @@
 - Multiple tags association
 
 ## Techniques to be explored
-- Latent Semantic Analysis (identify related questions)
-- Basket Analysis (tags association)
+- Topic Modeling
+- LDA
 - KNN (Tags/Questions clustering)
+- LexRank/TextRank
+
+## Dataset
+<ul>
+<li><a href = "https://www.kaggle.com/stackoverflow/pythonquestions/data"></a></li>
+<ul>
 
 ### Tools for Learning R
 <ul>
