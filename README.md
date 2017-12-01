@@ -40,5 +40,5 @@
 
 ## Tools for Learning R
 <ul>
-<li><a href = "http://r4ds.had.co.nz/">R for Data Science</a></li>
+<li><a href= "http://r4ds.had.co.nz/">R for Data Science</a></li>
 <ul>
