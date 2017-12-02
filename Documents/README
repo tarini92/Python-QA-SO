@@ -16,6 +16,9 @@ Consists of the Document-Term Matrix where rows correspond to the documents and 
 -cosineSim
 This is the cosine similarity matrix between n documents, where n is predefined.
 
+-Adjacency Matrix
+This is the distance matrix constructed from the cosine matrix, by applying a threshold.
+
 -word_freq
 This is the frequency of each word in all of the documents(questions/answers) in the dataset.
 
