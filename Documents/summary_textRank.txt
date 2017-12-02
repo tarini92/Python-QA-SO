@@ -1,0 +1,260 @@
+"Id"
+"1" 469
+"2" 502
+"3" 535
+"4" 594
+"5" 683
+"6" 742
+"7" 766
+"8" 773
+"9" 972
+"10" 1476
+"11" 1734
+"12" 1829
+"13" 1854
+"14" 1983
+"15" 2311
+"16" 2933
+"17" 3061
+"18" 3976
+"19" 4942
+"20" 5102
+"21" 5136
+"22" 5313
+"23" 5415
+"24" 5419
+"25" 5909
+"26" 5966
+"27" 8154
+"28" 8692
+"29" 8948
+"30" 10123
+"31" 11060
+"32" 12591
+"33" 12592
+"34" 13396
+"35" 13454
+"36" 13791
+"37" 13857
+"38" 13941
+"39" 14281
+"40" 14389
+"41" 15798
+"42" 16067
+"43" 16861
+"44" 17250
+"45" 17893
+"46" 19030
+"47" 19151
+"48" 19339
+"49" 19654
+"50" 20063
+"51" 20794
+"52" 20927
+"53" 21454
+"54" 21934
+"55" 21961
+"56" 22059
+"57" 22149
+"58" 22617
+"59" 22676
+"60" 23397
+"61" 23907
+"62" 24193
+"63" 24931
+"64" 25116
+"65" 25661
+"66" 25807
+"67" 26595
+"68" 26706
+"69" 27567
+"70" 28165
+"71" 28369
+"72" 28559
+"73" 28668
+"74" 28796
+"75" 28961
+"76" 29243
+"77" 29562
+"78" 29856
+"79" 31340
+"80" 32044
+"81" 32385
+"82" 32404
+"83" 32899
+"84" 33475
+"85" 33534
+"86" 33978
+"87" 34020
+"88" 34079
+"89" 34209
+"90" 34243
+"91" 34328
+"92" 34439
+"93" 34916
+"94" 35538
+"95" 35569
+"96" 35634
+"97" 35753
+"98" 35805
+"99" 35817
+"100" 35948
+"101" 35988
+"102" 36139
+"103" 36324
+"104" 36806
+"105" 36812
+"106" 36901
+"107" 36932
+"108" 36953
+"109" 37142
+"Id"
+"1" 469
+"2" 502
+"3" 535
+"4" 594
+"5" 683
+"6" 742
+"7" 766
+"8" 773
+"9" 972
+"10" 1476
+"11" 1734
+"12" 1829
+"13" 1854
+"14" 1983
+"15" 2311
+"16" 2933
+"17" 3061
+"18" 3976
+"19" 4942
+"20" 5102
+"21" 5136
+"22" 5313
+"23" 5415
+"24" 5419
+"25" 5909
+"26" 5966
+"27" 8154
+"28" 8692
+"29" 8948
+"30" 10123
+"31" 11060
+"32" 12591
+"33" 12592
+"34" 13396
+"35" 13454
+"36" 13791
+"37" 13857
+"38" 13941
+"39" 14281
+"40" 14389
+"41" 15798
+"42" 16067
+"43" 16861
+"44" 17250
+"45" 17893
+"46" 19030
+"47" 19151
+"48" 19339
+"49" 19654
+"50" 20063
+"51" 20794
+"52" 20927
+"53" 21454
+"54" 21934
+"55" 21961
+"56" 22059
+"57" 22149
+"58" 22617
+"59" 22676
+"60" 23397
+"61" 23907
+"62" 24193
+"63" 24931
+"64" 25116
+"65" 25661
+"66" 25807
+"67" 26595
+"68" 26706
+"69" 27567
+"70" 28165
+"71" 28369
+"72" 28559
+"73" 28668
+"74" 28796
+"75" 28961
+"76" 29243
+"77" 29562
+"78" 29856
+"79" 31340
+"80" 32044
+"81" 32385
+"82" 32404
+"83" 32899
+"84" 33475
+"85" 33534
+"86" 33978
+"87" 34020
+"88" 34079
+"89" 34209
+"90" 34243
+"91" 34328
+"92" 34439
+"93" 34916
+"94" 35538
+"95" 35569
+"96" 35634
+"97" 35753
+"98" 35805
+"99" 35817
+"100" 35948
+"101" 35988
+"102" 36139
+"103" 36324
+"104" 36806
+"105" 36812
+"106" 36901
+"107" 36932
+"108" 36953
+"109" 37142
+"x"
+"1" "how can i find the full path to a font from its display name on a mac    i am using the photoshop s javascript api to find the fonts in a given psd   given a font name returned by the api  i want to find the actual physical font file that that font name corresponds to on the disc   this is all happening in a python program running on osx so i guess i m looking for one of    some photoshop javascript a python function an osx api that i can call from python "
+"x"
+"1" "pylons error    mysql server has gone away     i hope this isn t too obscure hellip  i ll ask the newsgroup if nobody knows here   i m using pylons  a python framework  to serve a simple web application  but it seems to die from time to time  with this in the error log       mysql server has gone away    i did a bit of checking  and saw that this was because the connections to mysql were not being renewed  this shouldn t be a problem though  because the sqlalchemy pool recycle in the config file should automatically keep it alive  the default was    but i dialed it back to   because of this problem  it helped a bit  but   should be fine according to the docs  the errors still happen semi regularly  i don t want to lower it too much though and dos my own database      maybe something in my mysql config is goofy  not sure where to look exactly   other relevant details     python       pylons           w  sql alchemy    mysql        "
+"x"
+"1" "how to use xpath in python    what is the library  is there a full implementation  how is the library used  where is its website "
+"x"
+"1" "accessing mp  meta data with python   what is the best way to retrieve mp  metadata in python   i ve seen a couple frameworks out there  but i m unsure as to which would be the best to use     any ideas "
+"x"
+"1" "how do i treat an integer as an array of bytes in python    i m trying to decode the result of the python os wait   function  this returns  according to the python docs      a tuple containing its pid and exit status indication  a   bit number  whose low byte is the signal number that killed the process  and whose high byte is the exit status  if the signal number is zero   the high bit of the low byte is set if a core file was produced    how do i decode the exit status indication  which is an integer  to obtain the high and low byte  to be specific  how do i implement the decode function used in the following code snippet    pid status    os wait    exitstatus  signum    decode status "
+"x"
+"1" "how should i unit test a code generator    this is a difficult and open ended question i know  but i thought i d throw it to the floor and see if anyone had any interesting suggestions   i have developed a code generator that takes our python interface to our c   code  generated via swig  and generates code needed to expose this as webservices   when i developed this code i did it using tdd  but i ve found my tests to be brittle as hell   because each test essentially wanted to verify that for a given bit of input code  which happens to be a c   header  i d get a given bit of outputted code i wrote a small engine that reads test definitions from xml input files and generates test cases from these expectations   the problem is i dread going in to modify the code at all   that and the fact that the unit tests themselves are a  complex  and b  brittle   so i m trying to think of alternative approaches to this problem  and it strikes me i m perhaps tackling it the wrong way   maybe i need to focus more on the outcome  ie  does the code i generate actually run and do what i want it to  rather than  does the code look the way i want it to   has anyone got any experiences of something similar to this they would care to share "
+"x"
+"1" "using an xml catalog with python s lxml    is there a way  when i parse an xml document using lxml  to validate that document against its dtd using an external catalog file    i need to be able to work the fixed attributes defined in a documents dtd "
+"x"
+"1" "can you check that an exception is thrown with doctest in python    is it possible to write a doctest unit test that will check that an exception is raised  for example  if i have a function foo x  that is supposed to raise an exception if x lt    how would i write the doctest for that "
+"x"
+"1" "replacement for for    if array iteration   i love list comprehensions in python  because they concisely represent a transformation of a list   however  in other languages  i frequently find myself writing something along the lines of   foreach  int x in intarray    if  x  gt       generic condition on x     x          do other processing   this example is in c   where i m under the impression linq can help with this  but is there some common programming construct which can replace this slightly less than elegant solution   perhaps a data structure i m not considering "
+"x"
+"1" "python version of php s stripslashes   i wrote a piece of code to convert php s striplashes into valid python  backslash  escapes   cleaned   stringwithslashes cleaned   cleaned replace    n     n   cleaned   cleaned replace    r     n   cleaned   cleaned replace             how can i condense it "
+"x"
+"1" "how can i find the full path to a font from its display name on a mac    i am using the photoshop s javascript api to find the fonts in a given psd   given a font name returned by the api  i want to find the actual physical font file that that font name corresponds to on the disc   this is all happening in a python program running on osx so i guess i m looking for one of    some photoshop javascript a python function an osx api that i can call from python "
+"x"
+"1" "pylons error    mysql server has gone away     i hope this isn t too obscure hellip  i ll ask the newsgroup if nobody knows here   i m using pylons  a python framework  to serve a simple web application  but it seems to die from time to time  with this in the error log       mysql server has gone away    i did a bit of checking  and saw that this was because the connections to mysql were not being renewed  this shouldn t be a problem though  because the sqlalchemy pool recycle in the config file should automatically keep it alive  the default was    but i dialed it back to   because of this problem  it helped a bit  but   should be fine according to the docs  the errors still happen semi regularly  i don t want to lower it too much though and dos my own database      maybe something in my mysql config is goofy  not sure where to look exactly   other relevant details     python       pylons           w  sql alchemy    mysql        "
+"x"
+"1" "how to use xpath in python    what is the library  is there a full implementation  how is the library used  where is its website "
+"x"
+"1" "accessing mp  meta data with python   what is the best way to retrieve mp  metadata in python   i ve seen a couple frameworks out there  but i m unsure as to which would be the best to use     any ideas "
+"x"
+"1" "how do i treat an integer as an array of bytes in python    i m trying to decode the result of the python os wait   function  this returns  according to the python docs      a tuple containing its pid and exit status indication  a   bit number  whose low byte is the signal number that killed the process  and whose high byte is the exit status  if the signal number is zero   the high bit of the low byte is set if a core file was produced    how do i decode the exit status indication  which is an integer  to obtain the high and low byte  to be specific  how do i implement the decode function used in the following code snippet    pid status    os wait    exitstatus  signum    decode status "
+"x"
+"1" "how should i unit test a code generator    this is a difficult and open ended question i know  but i thought i d throw it to the floor and see if anyone had any interesting suggestions   i have developed a code generator that takes our python interface to our c   code  generated via swig  and generates code needed to expose this as webservices   when i developed this code i did it using tdd  but i ve found my tests to be brittle as hell   because each test essentially wanted to verify that for a given bit of input code  which happens to be a c   header  i d get a given bit of outputted code i wrote a small engine that reads test definitions from xml input files and generates test cases from these expectations   the problem is i dread going in to modify the code at all   that and the fact that the unit tests themselves are a  complex  and b  brittle   so i m trying to think of alternative approaches to this problem  and it strikes me i m perhaps tackling it the wrong way   maybe i need to focus more on the outcome  ie  does the code i generate actually run and do what i want it to  rather than  does the code look the way i want it to   has anyone got any experiences of something similar to this they would care to share "
+"x"
+"1" "using an xml catalog with python s lxml    is there a way  when i parse an xml document using lxml  to validate that document against its dtd using an external catalog file    i need to be able to work the fixed attributes defined in a documents dtd "
+"x"
+"1" "can you check that an exception is thrown with doctest in python    is it possible to write a doctest unit test that will check that an exception is raised  for example  if i have a function foo x  that is supposed to raise an exception if x lt    how would i write the doctest for that "
+"x"
+"1" "replacement for for    if array iteration   i love list comprehensions in python  because they concisely represent a transformation of a list   however  in other languages  i frequently find myself writing something along the lines of   foreach  int x in intarray    if  x  gt       generic condition on x     x          do other processing   this example is in c   where i m under the impression linq can help with this  but is there some common programming construct which can replace this slightly less than elegant solution   perhaps a data structure i m not considering "
+"x"
+"1" "python version of php s stripslashes   i wrote a piece of code to convert php s striplashes into valid python  backslash  escapes   cleaned   stringwithslashes cleaned   cleaned replace    n     n   cleaned   cleaned replace    r     n   cleaned   cleaned replace             how can i condense it "
